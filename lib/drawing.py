@@ -52,8 +52,8 @@ def drawSignal(page, signal:Signal, thickness:int, y:int):
 
 def drawTiming(page, waves:list, xOffset=0.5, yOffset=0.5):
     # Draw Backgroud
-    W = max([wave.lastCycle for wave in waves])+1
-    W = (int(W/5)+1)*5+1
+    W = max([wave.lastCycle for wave in waves])
+    W = (int(W/5)+1)*5
     H = len(waves)
     
     # X axis

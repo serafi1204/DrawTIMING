@@ -1,7 +1,7 @@
 # DrawTIMING
 This project generates a timing diagram based on the input string.
 
-# DEMO VEIEO
+# DEMO VIDEO
 [![Video Label](http://img.youtube.com/vi/EYCsdMdQp6E/0.jpg)](https://www.youtube.com/watch?v=EYCsdMdQp6E)
 
 # HOW TO USE

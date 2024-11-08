@@ -6,7 +6,10 @@ This project generates a timing diagram based on the input string.
 
 # HOW TO USE
 ### Preparation
-    pip install pywin32
+1. Install Microsoft Visio
+2. Install package
+   
+       pip install pywin32
 
 ### Input rule
 Fill in the item enclosed in {}.
